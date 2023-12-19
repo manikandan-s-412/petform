@@ -1,0 +1,22 @@
+.navbar{
+    padding-right: 15px;padding-left: 15px;
+    background-color: rgba(5, 5, 5, 0.534);
+    overflow: hidden;
+    position:fixed;
+    top: 0; left: 0;
+    width: 100%;
+    border-bottom: 0.3px solid  rgba(230, 217, 217, 0.3);
+}
+
+li{
+    display:inline-block;
+    font-size: 14px;
+    margin-right: 10px;
+  }
+  a,p{
+    color: #fff;
+    text-decoration:none;
+}
+.navbar{
+  text-align: right;
+}
